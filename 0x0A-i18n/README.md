@@ -36,6 +36,6 @@ $ pip3 install flask_babel
 * [x] 7. Infer appropriate time zone
 * [x] 8. Display the current time
 
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2020 - 2021  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).

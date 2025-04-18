@@ -42,5 +42,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 12. In stock?
 * [ ] 13. Can I have a seat?
 
-## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2020 - 2021  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).

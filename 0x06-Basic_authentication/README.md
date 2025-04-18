@@ -88,6 +88,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 12. Basic - Allow password with ":"
 * [x] 13. Require auth with stars
 
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2020 - 2021  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).

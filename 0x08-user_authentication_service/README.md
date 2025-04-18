@@ -50,6 +50,6 @@ pip3 install bcrypt
 * [x] 19. Update password end-point
 * [x] 20. End-to-end integration test
 
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2020 - 2021  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
