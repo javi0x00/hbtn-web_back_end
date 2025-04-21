@@ -40,5 +40,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [ ] 10. Sessions in database
 
 ## Software Developer
-Built by [javi](https://github.com/javi0x00) :copyright: 2020 - 2021  
-Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
+Built by [Javi](https://github.com/javi0b01) :copyright: 2020 - 2021  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0b01/).
